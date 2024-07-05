@@ -4,6 +4,7 @@ Welcome to the MelHad Investment Website repository.
 This project is aimed at providing a comprehensive platform for managing investments with a user-friendly interface.
 
 Technology Stack
+
 Version Control GitHub: Used for version control to keep track of all changes and collaborate with team members
 
 Frontend Technologies

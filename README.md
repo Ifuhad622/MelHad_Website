@@ -8,6 +8,7 @@ Technology Stack
 Version Control GitHub: Used for version control to keep track of all changes and collaborate with team members
 
 Frontend Technologies
+
 HTML: The standard markup language used to create the structure of the web pages.
 
 CSS: Used to style the HTML elements and create a visually appealing layout.
@@ -24,6 +25,7 @@ To set up the project locally, ensure you have the following installed:
 Git,A web browser (e.g., Google Chrome, Firefox)
 
 Installation
+
 Clone the repository:git clone https://github.com/Ifuhad622/MelHad Website.git
 
 Navigate to the project directory:
@@ -43,7 +45,9 @@ Project Structure MelHad Website/
 │   ├── bootstrap.min.css
 │   ├── bootstrap.min.js
 ├── images/
-│   ├── logo.pngindex.html: The main HTML file that serves as the entry point of the website.
+│   ├── logo.pngindex.
+
+html: The main HTML file that serves as the entry point of the website.
 
 css/: Contains the stylesheet for the website.
 
@@ -54,7 +58,9 @@ bootstrap/: Contains Bootstrap files for responsive design.
 images/: Contains image assets used in the website.
 
 Contributing
+
 Fork the repository.
+
 Create your feature branch (git checkout -b feature/your-feature).
 Commit your changes (git commit -m 'Add your feature').
 Push to the branch (git push origin feature/your-feature).

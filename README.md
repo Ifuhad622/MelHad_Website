@@ -1,4 +1,11 @@
-MelHad Investment WebsiteWelcome to the MelHad Investment Website repository. This project is aimed at providing a comprehensive platform for managing investments with a user-friendly interface.Technology StackVersion ControlGitHub: Used for version control to keep track of all changes and collaborate with team members.Frontend TechnologiesHTML: The standard markup language used to create the structure of the web pages.CSS: Used to style the HTML elements and create a visually appealing layout.JavaScript: Adds interactivity to the web pages, making the user experience more dynamic.Bootstrap: A front-end framework that helps in designing responsive web pages quickly and efficiently.Getting StartedPrerequisitesTo set up the project locally, ensure you have the following installed:GitA web browser (e.g., Google Chrome, Firefox)InstallationClone the repository:git clone https://github.com/yourusername/melhad-investment.gitNavigate to the project directory:cd melhad-investmentUsageOpen the index.html file in your web browser to view the website.Project Structuremelhad-investment/
+MelHad Investment WebsiteWelcome to the MelHad Investment Website repository. This project is aimed at providing a comprehensive platform for managing investments with a user-friendly interface.Technology StackVersion ControlGitHub: Used for version control to keep track of all changes and collaborate with team members.Frontend TechnologiesHTML: The standard markup language used to create the structure of the web pages.CSS: Used to style the HTML elements and create a visually appealing layout.JavaScript: Adds interactivity to the web pages, making the user experience more dynamic.Bootstrap: A front-end framework that helps in designing responsive web pages quickly and efficiently.Getting StartedPrerequisitesTo set up the project locally, ensure you have the following installed:GitA web browser (e.g., Google Chrome, Firefox)InstallationClone the repository:git clone https://github.com/Ifuhad622/MelHad Website.git
+Navigate to the project directory:
+cd MelHad Website 
+
+ Usage
+Open the index.html file in your web browser to view the website.
+
+Project Structure MelHad Website/
 ├── index.html
 ├── css/
 │   ├── style.css

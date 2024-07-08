@@ -1,0 +1,12 @@
+stripe:
+  publishable_key: 'your_publishable_key'
+  secret_key: 'your_secret_key'
+
+sendgrid:
+  api_key: 'your_sendgrid_api_key'
+  from_email: 'your_email@example.com'
+
+twilio:
+  account_sid: 'your_twilio_account_sid'
+  auth_token: 'your_twilio_auth_token'
+  from_phone: 'your_twilio_phone_number'
